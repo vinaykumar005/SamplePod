@@ -24,7 +24,7 @@ TODO: Add long description of the pod here.
   s.homepage         = 'https://github.com/vinay kumar/PODTEST'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'vinay kumar' => 'kammari.chary@mphasis.com' }
+  s.author           = { 'vinay kumar' => 'sunnyvinay005@gmail.com }
   s.source           = { :git => 'https://github.com/vinay kumar/PODTEST.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/S'
 
