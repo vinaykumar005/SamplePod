@@ -3,7 +3,7 @@ use_frameworks!
 platform :ios, '9.0'
 
 target 'PODTEST_Example' do
-  pod 'PODTEST', :path => '../'
+  pod 'PODTESTVINAY', :path => '../'
 
   target 'PODTEST_Tests' do
     inherit! :search_paths

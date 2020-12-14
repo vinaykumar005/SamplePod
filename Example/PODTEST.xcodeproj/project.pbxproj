@@ -44,7 +44,7 @@
 		9F01D2BDB8EA8AF84FA76152 /* Pods-PODTEST_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PODTEST_Example.debug.xcconfig"; path = "Target Support Files/Pods-PODTEST_Example/Pods-PODTEST_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		A227C553E8A93663C6216399 /* Pods-PODTEST_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PODTEST_Tests.release.xcconfig"; path = "Target Support Files/Pods-PODTEST_Tests/Pods-PODTEST_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D4984CD721DD24F3313D160E /* Pods-PODTEST_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PODTEST_Tests.debug.xcconfig"; path = "Target Support Files/Pods-PODTEST_Tests/Pods-PODTEST_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		D58ED98A711B86F579D19002 /* PODTEST.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PODTEST.podspec; path = ../PODTEST.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		D58ED98A711B86F579D19002 /* PODTESTVINAY.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = PODTESTVINAY.podspec; path = ../PODTESTVINAY.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		DBF30B2B0F764AA3335FCA08 /* Pods_PODTEST_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_PODTEST_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5B4A9221AC700555962116D /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -132,7 +132,7 @@
 		607FACF51AFB993E008FA782 /* Podspec Metadata */ = {
 			isa = PBXGroup;
 			children = (
-				D58ED98A711B86F579D19002 /* PODTEST.podspec */,
+				D58ED98A711B86F579D19002 /* PODTESTVINAY.podspec */,
 				F5B4A9221AC700555962116D /* README.md */,
 				7CB85777DF41D0E9C7903FAF /* LICENSE */,
 			);
