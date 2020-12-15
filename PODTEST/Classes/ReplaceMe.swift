@@ -1,12 +1,11 @@
 
-class TestDIPESHVINAY {
+ public class TestDIPESHVINAY {
     
-    func printdipesh(){
+   public func printdipesh(){
         print("Hello POD we are here !!!")
     }
     
-    
-    func getPodName() -> String {
+    public func getPodName() -> String {
         return "TestPod"
     }
 }
